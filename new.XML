@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE about_me>
+<about_me firstname="Иван" secondname="Иванов" adress="Московское шоссе">
+   <title>
+      Обо мне
+   </title>
+   <composition>
+</about_me>
